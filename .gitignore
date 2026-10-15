@@ -1,0 +1,4 @@
+*.laccdb
+*.ldb
+.DS_Store
+Thumbs.db

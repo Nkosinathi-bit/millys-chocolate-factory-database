@@ -1,27 +1,36 @@
-# Milly's Chocolate Factory Database 🍫
+# Milly's Chocolate Factory Database
 
-## 📌 Project Overview
-This project was created as part of my Database Development course at Belgium Campus.
+A Microsoft Access database created for Database Development coursework at Belgium Campus.
 
-The goal was to design and implement a database system for Milly's Chocolate Factory.
+The project explores how a business scenario can be represented using related tables and implemented as a relational database.
 
-## 🛠️ Technologies Used
-- Microsoft Access
-- Database Design (ERD)
+## Project focus
 
-## 📊 Features
-- Designed an Entity Relationship Diagram (ERD)
-- Created tables with proper relationships
-- Implemented the database in Microsoft Access
+- Identify entities and their relationships.
+- Plan a relational data model.
+- Implement related tables in Microsoft Access.
+- Translate an entity relationship design into a working database file.
 
-## 📚 What I Learned
-- How to design a structured database
-- Creating relationships between entities
-- Implementing a database from an ERD
+## Open the project
 
-## 📂 Files Included
-- ERD (diagram)
-- Microsoft Access database file
+1. Download or clone the repository.
+2. Open `Milly's Chocolate Factory.accdb` in Microsoft Access.
+3. Inspect the database objects and use the Relationships window to explore the data model.
 
-## 🚀 Author
-Nkosinathi Mathenjwa
+Microsoft Access is required to inspect and edit the database in its native format. GitHub cannot preview an `.accdb` file as source code.
+
+## Repository contents
+
+| File | Description |
+| --- | --- |
+| `Milly's Chocolate Factory.accdb` | Microsoft Access database |
+| `README.md` | Project overview and opening instructions |
+| `.gitignore` | Excludes temporary Access lock files |
+
+A separate ERD image or PDF is not currently included. Open the database in Access to inspect its structure.
+
+## Skills practised
+
+Relational database design · Entity relationships · Microsoft Access · Translating requirements into a data model
+
+**Author:** Nkosinathi Mathenjwa
