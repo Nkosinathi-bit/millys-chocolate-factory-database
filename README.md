@@ -1,5 +1,7 @@
 # Milly's Chocolate Factory Database
 
+**Database Development coursework · Microsoft Access**
+
 A Microsoft Access database created for Database Development coursework at Belgium Campus.
 
 The project explores how a business scenario can be represented using related tables and implemented as a relational database.
