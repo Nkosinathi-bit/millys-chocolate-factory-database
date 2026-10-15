@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1320" height="1246" viewBox="0 0 1320 1246">
+<rect width="1320" height="1246" rx="18" fill="#f3f6f9"/>
+<text x="30" y="43" xml:space="preserve" font-family="DejaVu Sans" font-size="12" font-weight="600" fill="#476778">MICROSOFT ACCESS / EXTRACTED TABLE INVENTORY</text>
+<text x="30" y="86" xml:space="preserve" font-family="DejaVu Sans" font-size="34" font-weight="600" fill="#243f59">Milly&#x27;s Chocolate Factory</text>
+<text x="30" y="121" xml:space="preserve" font-family="DejaVu Sans" font-size="15" font-weight="400" fill="#5a707e">11 tables · Field names from the .accdb · Types shown in MDB Tools PostgreSQL export syntax</text>
+<rect x="30" y="165" width="400" height="234" rx="12" fill="white" stroke="#d8e1e6"/>
+<rect x="31" y="166" width="398" height="45" rx="11" fill="#e7edf4"/>
+<text x="48" y="194" xml:space="preserve" font-family="DejaVu Sans" font-size="19" font-weight="600" fill="#243f59">account</text>
+<text x="48" y="237" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">accountid</text>
+<text x="410" y="237" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">SERIAL</text>
+<text x="48" y="263" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">balance</text>
+<text x="410" y="263" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">NUMERIC(15,2)</text>
+<text x="48" y="289" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">lastpaymentdate</text>
+<text x="410" y="289" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">TIMESTAMP</text>
+<text x="48" y="315" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">lastpaymentamount</text>
+<text x="410" y="315" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">NUMERIC(15,2)</text>
+<text x="48" y="341" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">type</text>
+<text x="410" y="341" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">VARCHAR (255)</text>
+<text x="48" y="367" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">customerid</text>
+<text x="410" y="367" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">INTEGER</text>
+<rect x="460" y="165" width="400" height="208" rx="12" fill="white" stroke="#d8e1e6"/>
+<rect x="461" y="166" width="398" height="45" rx="11" fill="#e7edf4"/>
+<text x="478" y="194" xml:space="preserve" font-family="DejaVu Sans" font-size="19" font-weight="600" fill="#243f59">branch</text>
+<text x="478" y="237" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">branchnumber</text>
+<text x="840" y="237" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">VARCHAR (255)</text>
+<text x="478" y="263" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">address</text>
+<text x="840" y="263" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">VARCHAR (255)</text>
+<text x="478" y="289" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">city</text>
+<text x="840" y="289" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">VARCHAR (255)</text>
+<text x="478" y="315" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">province</text>
+<text x="840" y="315" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">VARCHAR (255)</text>
+<text x="478" y="341" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">storagespace</text>
+<text x="840" y="341" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">INTEGER</text>
+<rect x="890" y="165" width="400" height="130" rx="12" fill="white" stroke="#d8e1e6"/>
+<rect x="891" y="166" width="398" height="45" rx="11" fill="#e7edf4"/>
+<text x="908" y="194" xml:space="preserve" font-family="DejaVu Sans" font-size="19" font-weight="600" fill="#243f59">branchitem</text>
+<text x="908" y="237" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">branchnumber</text>
+<text x="1270" y="237" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">VARCHAR (255)</text>
+<text x="908" y="263" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">itemid</text>
+<text x="1270" y="263" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">INTEGER</text>
+<rect x="890" y="315" width="400" height="312" rx="12" fill="white" stroke="#d8e1e6"/>
+<rect x="891" y="316" width="398" height="45" rx="11" fill="#e7edf4"/>
+<text x="908" y="344" xml:space="preserve" font-family="DejaVu Sans" font-size="19" font-weight="600" fill="#243f59">customer</text>
+<text x="908" y="387" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">customerid</text>
+<text x="1270" y="387" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">SERIAL</text>
+<text x="908" y="413" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">company</text>
+<text x="1270" y="413" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">VARCHAR (255)</text>
+<text x="908" y="439" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">name</text>
+<text x="1270" y="439" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">VARCHAR (255)</text>
+<text x="908" y="465" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">address</text>
+<text x="1270" y="465" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">VARCHAR (255)</text>
+<text x="908" y="491" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">city</text>
+<text x="1270" y="491" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">VARCHAR (255)</text>
+<text x="908" y="517" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">province</text>
+<text x="1270" y="517" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">VARCHAR (255)</text>
+<text x="908" y="543" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">telephone</text>
+<text x="1270" y="543" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">VARCHAR (255)</text>
+<text x="908" y="569" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">dateofestablishment</text>
+<text x="1270" y="569" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">TIMESTAMP</text>
+<text x="908" y="595" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">languageofcommunication</text>
+<text x="1270" y="595" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">VARCHAR (255)</text>
+<rect x="460" y="393" width="400" height="208" rx="12" fill="white" stroke="#d8e1e6"/>
+<rect x="461" y="394" width="398" height="45" rx="11" fill="#e7edf4"/>
+<text x="478" y="422" xml:space="preserve" font-family="DejaVu Sans" font-size="19" font-weight="600" fill="#243f59">dependent</text>
+<text x="478" y="465" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">dependentid</text>
+<text x="840" y="465" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">SERIAL</text>
+<text x="478" y="491" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">name</text>
+<text x="840" y="491" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">VARCHAR (255)</text>
+<text x="478" y="517" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">age</text>
+<text x="840" y="517" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">INTEGER</text>
+<text x="478" y="543" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">relationship</text>
+<text x="840" y="543" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">VARCHAR (255)</text>
+<text x="478" y="569" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">employeeid</text>
+<text x="840" y="569" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">INTEGER</text>
+<rect x="30" y="419" width="400" height="130" rx="12" fill="white" stroke="#d8e1e6"/>
+<rect x="31" y="420" width="398" height="45" rx="11" fill="#e7edf4"/>
+<text x="48" y="448" xml:space="preserve" font-family="DejaVu Sans" font-size="19" font-weight="600" fill="#243f59">employeeskills</text>
+<text x="48" y="491" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">employeeid</text>
+<text x="410" y="491" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">INTEGER</text>
+<text x="48" y="517" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">skillid</text>
+<text x="410" y="517" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">INTEGER</text>
+<rect x="30" y="569" width="400" height="182" rx="12" fill="white" stroke="#d8e1e6"/>
+<rect x="31" y="570" width="398" height="45" rx="11" fill="#e7edf4"/>
+<text x="48" y="598" xml:space="preserve" font-family="DejaVu Sans" font-size="19" font-weight="600" fill="#243f59">item</text>
+<text x="48" y="641" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">itemid</text>
+<text x="410" y="641" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">SERIAL</text>
+<text x="48" y="667" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">description</text>
+<text x="410" y="667" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">VARCHAR (255)</text>
+<text x="48" y="693" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">size</text>
+<text x="410" y="693" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">INTEGER</text>
+<text x="48" y="719" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">type</text>
+<text x="410" y="719" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">VARCHAR (255)</text>
+<rect x="460" y="621" width="400" height="130" rx="12" fill="white" stroke="#d8e1e6"/>
+<rect x="461" y="622" width="398" height="45" rx="11" fill="#e7edf4"/>
+<text x="478" y="650" xml:space="preserve" font-family="DejaVu Sans" font-size="19" font-weight="600" fill="#243f59">itemcompostion</text>
+<text x="478" y="693" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">parentitemid</text>
+<text x="840" y="693" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">INTEGER</text>
+<text x="478" y="719" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">componentitemid</text>
+<text x="840" y="719" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">INTEGER</text>
+<rect x="890" y="647" width="400" height="130" rx="12" fill="white" stroke="#d8e1e6"/>
+<rect x="891" y="648" width="398" height="45" rx="11" fill="#e7edf4"/>
+<text x="908" y="676" xml:space="preserve" font-family="DejaVu Sans" font-size="19" font-weight="600" fill="#243f59">skill</text>
+<text x="908" y="719" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">skillid</text>
+<text x="1270" y="719" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">SERIAL</text>
+<text x="908" y="745" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">skillname</text>
+<text x="1270" y="745" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">VARCHAR (255)</text>
+<rect x="30" y="771" width="400" height="390" rx="12" fill="white" stroke="#d8e1e6"/>
+<rect x="31" y="772" width="398" height="45" rx="11" fill="#e7edf4"/>
+<text x="48" y="800" xml:space="preserve" font-family="DejaVu Sans" font-size="19" font-weight="600" fill="#243f59">employee</text>
+<text x="48" y="843" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">employeeid</text>
+<text x="410" y="843" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">SERIAL</text>
+<text x="48" y="869" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">name</text>
+<text x="410" y="869" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">VARCHAR (255)</text>
+<text x="48" y="895" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">street</text>
+<text x="410" y="895" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">VARCHAR (255)</text>
+<text x="48" y="921" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">city</text>
+<text x="410" y="921" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">VARCHAR (255)</text>
+<text x="48" y="947" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">province</text>
+<text x="410" y="947" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">VARCHAR (255)</text>
+<text x="48" y="973" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">telephone</text>
+<text x="410" y="973" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">VARCHAR (255)</text>
+<text x="48" y="999" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">dateofhire</text>
+<text x="410" y="999" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">TIMESTAMP</text>
+<text x="48" y="1025" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">title</text>
+<text x="410" y="1025" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">VARCHAR (255)</text>
+<text x="48" y="1051" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">salary</text>
+<text x="410" y="1051" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">NUMERIC(15,2)</text>
+<text x="48" y="1077" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">dateofbirth</text>
+<text x="410" y="1077" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">TIMESTAMP</text>
+<text x="48" y="1103" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">age</text>
+<text x="410" y="1103" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">INTEGER</text>
+<text x="48" y="1129" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">branchnumber</text>
+<text x="410" y="1129" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">VARCHAR (255)</text>
+<rect x="460" y="771" width="400" height="234" rx="12" fill="white" stroke="#d8e1e6"/>
+<rect x="461" y="772" width="398" height="45" rx="11" fill="#e7edf4"/>
+<text x="478" y="800" xml:space="preserve" font-family="DejaVu Sans" font-size="19" font-weight="600" fill="#243f59">order</text>
+<text x="478" y="843" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">orderid</text>
+<text x="840" y="843" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">SERIAL</text>
+<text x="478" y="869" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">orderdate</text>
+<text x="840" y="869" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">TIMESTAMP</text>
+<text x="478" y="895" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">creditauthorizationstatus</text>
+<text x="840" y="895" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">BOOLEAN</text>
+<text x="478" y="921" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">customerid</text>
+<text x="840" y="921" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">INTEGER</text>
+<text x="478" y="947" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">branchnumber</text>
+<text x="840" y="947" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">VARCHAR (255)</text>
+<text x="478" y="973" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="14" font-weight="400" fill="#2f4455">itemid</text>
+<text x="840" y="973" text-anchor="end" font-family="DejaVu Sans" font-size="10" fill="#687a87">INTEGER</text>
+<text x="30" y="1205" xml:space="preserve" font-family="DejaVu Sans" font-size="12" font-weight="400" fill="#5a707e">Table inventory, not an Access interface screenshot. TIMESTAMP labels are abbreviated.</text>
+<text x="30" y="1227" xml:space="preserve" font-family="DejaVu Sans" font-size="12" font-weight="400" fill="#5a707e">No user-table foreign-key constraints appeared in this export. Full schema extract is linked in the README.</text>
+</svg>
